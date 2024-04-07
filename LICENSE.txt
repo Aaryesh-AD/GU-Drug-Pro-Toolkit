@@ -1,0 +1,32 @@
+================================================================================
+License Information
+================================================================================
+
+GU Drug-Pro Toolkit
+Author: Aaryesh Deshpande
+Project Guide: Prof. Sekhar Talluri
+Development Facility: GITAM (Deemed to be) University
+
+MIT License
+Copyright (c) 2024 Aaryesh Deshpande
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+Additional Information
+================================================================================
+
+Contributions:
+We welcome contributions from the community! To contribute to this project, please fork the repository, make your changes, and submit a pull request.
+
+Disclaimer:
+All information and features in this software are provided "as is" without any warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Under no circumstances shall Aaryesh Deshpande or GITAM be liable for any damages whatsoever, including direct, indirect, incidental, consequential, loss of business profits, or special damages, even if Aaryesh Deshpande or GITAM has been advised of the possibility of such damages. The information and functions included in this software may be updated or changed without prior notice. While we strive to provide accurate and up-to-date information, Aaryesh Deshpande and GITAM cannot guarantee the absolute accuracy of the software's contents or functionalities. The GU Drug-Pro Toolkit is a proprietary software developed by Aaryesh Deshpande. Any modifications to the libraries are documented in accordance with the original licenses for compatibility and functionality within the GU Drug-Pro Toolkit.
+
+Software Acknowledgments, Trademarks, and Legal Notices:
+All product names, logos, brands, trademarks, and registered trademarks are the property of their respective owners. Use of these names, logos, and brands does not imply endorsement. The use of the project's name, logo, or other trademarks is subject to Aaryesh Deshpande's prior written consent. The GU Drug-Pro Toolkit utilizes open-source libraries under various licenses, including PIL (Pillow), matplotlib, numpy, scikit-learn, tensorflow, customtkinter, cx_Freeze, pyinstaller, pandas, pubchempy, rdkit, requests, and tkinter. Additionally, export_info and props_ptr are proprietary modules for data exportation and descriptor calculations, respectively, while reportlab facilitates PDF generation. All libraries and their modifications are acknowledged and incorporated within licensing agreements.
+
+For more information, please contact adeshpan@gitam.in.
