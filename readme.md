@@ -53,9 +53,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Aaryesh Deshpande, Project author
-Prof. Sekhar Talluri, Project Guide
-Development Team at GITAM (Deemed to be) University
+Aaryesh Deshpande, Project author,
+Prof. Sekhar Talluri, Project Guide,
+Development Team at GITAM (Deemed to be) University,
 Contributors and users of the open-source libraries utilized in this project
 For support or inquiries, please contact us at <adeshpan@gitam.in>
 
