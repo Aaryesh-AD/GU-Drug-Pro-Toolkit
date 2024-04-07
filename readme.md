@@ -63,8 +63,6 @@ For support or inquiries, please contact us at <adeshpan@gitam.in>
 
 The user manual is provided as a digital document alongside the software package. Users can access it directly within the application via the 'Help' menu or by navigating to the documentation directory in the software's installation folder.
 
-For the most up-to-date version of the manual and additional resources, users are encouraged to visit the official documentation website at [insert documentation URL here]. The website is regularly updated to reflect the latest features, enhancements, and fixes.
-
 ## Support and Feedback
 
 Your feedback is invaluable in helping us improve both the software and its documentation. Should you have suggestions for improving the  software, data, models, user manual, encounter discrepancies, or wish to contribute to the documentation, please contact our support team at <adeshpan@gitam.in>.
