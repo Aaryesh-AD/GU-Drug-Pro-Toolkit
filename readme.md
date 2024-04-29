@@ -41,7 +41,7 @@ Once your system is prepared, follow the installation instructions detailed in t
 ### Quick Installation Guide
 
 - Prepare for Installation: Close other applications. Ensure system meets the "Getting Started" requirements.
-- Run Installer: Double-click the downloaded MSI file for the GU Drug-Pro Toolkit.
+- Run Installer: Double-click the downloaded setup file for the GU Drug-Pro Toolkit.
 - Setup Wizard: Follow the on-screen instructions, clicking "Next" to proceed through the setup wizard.
 - Accept License: Read and accept the license agreement terms to continue.
 - Choose Folder: Select the installation directory or use the default location provided.
