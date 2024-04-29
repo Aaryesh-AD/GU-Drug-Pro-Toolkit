@@ -2,6 +2,9 @@
 
 The GU Drug-Pro Toolkit is a comprehensive suite designed to enhance drug discovery and development processes. Developed at GITAM (Deemed to be) University under the guidance of Prof. Sekhar Talluri, this toolkit offers a range of functionalities from molecular visualization to ADMET prediction, streamlining the evaluation of pharmacokinetic properties.
 
+## Installation
+To install GU Drug Pro Toolkit, please download the setup.exe file from the Releases tab of our GitHub repository. This file contains everything you need to get started with the installation. Simply navigate to the [Releases section](https://github.com/Aaryesh-AD/GU-Drug-Pro-Toolkit/releases/tag/toolkit), find the latest version, and click on the setup file to download it. Follow the installation prompts to complete the setup on your system.
+
 ## Features
 
 - **Molecular Visualization:** Interactive 3D models for in-depth analysis.
