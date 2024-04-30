@@ -7,7 +7,7 @@ To install GU Drug Pro Toolkit, please download the setup.exe file from the Rele
 
 ## Features
 
-- **Molecular Visualization:** Interactive 3D models for in-depth analysis.
+- **Molecular Visualization:** Molecular structures in-depth analysis.
 - **ADMET Prediction:** Evaluate absorption, distribution, metabolism, excretion, and toxicity.
 - **Physicochemical Properties Calculation:** Analyze molecular weight, solubility, logP, and more.
 - **Druglikeness Evaluation:** Assess potential drug compounds against established criteria.
