@@ -31,7 +31,7 @@ Welcome to a seamless experience of molecular discovery with the GU Drug-Pro Too
 - Operating System: Windows 10 or higher.
 - Processor: Intel Core i5 or equivalent.
 - RAM: 4 GB minimum (8 GB or more recommended for optimal performance).
-- Disk Space: At least 550 MB of free space for installation, with additional space for data storage.
+- Disk Space: At least 1.0 GB of free space for installation, with additional space for data storage.
 - Display: 1280x720 screen resolution or higher.
 - Internet Connection: Required for initial setup and to access external databases like PubChem.
 - Additional Software: A PDF reader for viewing the manual and reporting tools.
